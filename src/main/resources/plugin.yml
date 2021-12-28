@@ -1,0 +1,5 @@
+name: BroGolem
+version: '${project.version}'
+main: me.macitron3000.brogolem.BroGolem
+api-version: 1.18
+description: Takes the god of destruction, and makes it worse
